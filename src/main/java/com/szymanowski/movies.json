@@ -1,0 +1,32 @@
+[
+  {
+    "title":"movie1",
+    "director":{"name":"Maciej","surname":"Giel"},
+    "releaseDate": "1999",
+    "genre":"drama",
+    "actors":[
+      {"name":"Piotr","surname":"Nowak"},
+      {"name":"Jan","surname":"Kowalski"}
+    ]
+  },
+  {
+    "title":"movie2",
+    "director":{"name":"Justyna","surname":"Szymanowska"},
+    "releaseDate": "2000",
+    "genre":"drama",
+    "actors":[
+      {"name":"Piotr","surname":"Nowak"},
+      {"name":"Ewa","surname":"Drzyzga"}
+    ]
+  },
+  {
+    "title":"movie3",
+    "director":{"name":"Andrzej","surname":"Handerek"},
+    "releaseDate": "1995",
+    "genre":"comedy",
+    "actors":[
+      {"name":"Martyna","surname":"Wojciechowska"},
+      {"name":"Jan","surname":"Kowalski"}
+    ]
+  }
+]
