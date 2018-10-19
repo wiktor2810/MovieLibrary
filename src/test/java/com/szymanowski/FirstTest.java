@@ -29,8 +29,6 @@ public class FirstTest {
     @Test
     public void shouldReadObject(){
 
-
-        //then
         Movie movie = myObjects[1];
         Assert.assertNotNull(movie);
     }
@@ -38,10 +36,7 @@ public class FirstTest {
     @Test
     public void shouldShowActors(){
 
-        //given
         MenuMethods menuMethods = new MenuMethods();
-
-        //when
         menuMethods.showTitles(myObjects);
 
     }
